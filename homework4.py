@@ -1,0 +1,7 @@
+my_str = input()
+print(len(my_str))
+print(my_str.upper())
+print(my_str.lower())
+print(my_str.replace(" ", ""))
+print(my_str[0])
+print(my_str[-1])
